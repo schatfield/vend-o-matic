@@ -1,0 +1,26 @@
+[
+  {
+      "model": "vendomaticApp.Beverage",
+      "pk": 1,
+      "fields": {
+        "name": "Fizzy Cola",
+        "quantity": 5
+      }
+  },
+  {
+    "model": "vendomaticApp.Beverage",
+    "pk": 2,
+    "fields": {
+      "name": "Super Seltzer",
+      "quantity": 5
+    }
+  },
+  {
+    "model": "vendomaticApp.Beverage",
+    "pk": 3,
+    "fields": {
+      "name": "A Grape Drink",
+      "quantity": 5
+    }
+  }
+]

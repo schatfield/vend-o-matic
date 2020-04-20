@@ -1,0 +1,9 @@
+[
+    {
+        "model": "vendomaticApp.Coin",
+        "pk": 1,
+        "fields": {
+          "coin_count": 0
+        }
+    }   
+]
